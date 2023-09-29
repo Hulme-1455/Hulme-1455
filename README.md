@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hulme-1455
 - 👀 I’m interested in: Warhammer 40k, Coding, Gaming, Literature, Football
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Python, Jvascript 
 - 💞️ I’m looking to collaborate on: basic stuff to learn
 - 📫 How to reach me: dont
 
